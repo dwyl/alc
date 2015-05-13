@@ -4,7 +4,7 @@ Awesome Learning Community (ALC) helps everyone track and share everything they 
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-@**dwyl** we ***love learning***! (*which is why* ***we share*** all the ***things we learn***: https://github.com/docdis* )
+@**dwyl** we ***love learning***! (*which is why* ***we share*** *all the* ***things we learn***: https://github.com/docdis )  
 ***Most*** of the ***people*** we know also ***love learning new things***!
 (*we don't hang out with people who already know everything...*)  
 We are *frustrated* that we don't have a way of
